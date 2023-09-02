@@ -1,0 +1,7 @@
+{"LambdaFunctionConfigurations": [
+    {
+      "LambdaFunctionArn": "arn:aws:lambda:eu-west-2:027026634773:function:s3-file-reader-1689156711",
+      "Events": ["s3:ObjectCreated:*"]
+    }
+  ]
+}
